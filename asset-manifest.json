@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/barbery/static/css/main.e1b9e8b4.css",
+    "main.js": "/barbery/static/js/main.fb3c3496.js",
+    "static/js/728.b64fa1fa.chunk.js": "/barbery/static/js/728.b64fa1fa.chunk.js",
+    "static/js/635.0895244a.chunk.js": "/barbery/static/js/635.0895244a.chunk.js",
+    "static/js/338.1df633ac.chunk.js": "/barbery/static/js/338.1df633ac.chunk.js",
+    "static/js/720.88999040.chunk.js": "/barbery/static/js/720.88999040.chunk.js",
+    "static/js/80.b8737330.chunk.js": "/barbery/static/js/80.b8737330.chunk.js",
+    "static/js/584.a11771a8.chunk.js": "/barbery/static/js/584.a11771a8.chunk.js",
+    "static/js/773.5ffb76e5.chunk.js": "/barbery/static/js/773.5ffb76e5.chunk.js",
+    "static/js/418.54b3599c.chunk.js": "/barbery/static/js/418.54b3599c.chunk.js",
+    "static/js/170.d7689304.chunk.js": "/barbery/static/js/170.d7689304.chunk.js",
+    "static/js/953.ed4188e9.chunk.js": "/barbery/static/js/953.ed4188e9.chunk.js",
+    "static/js/473.838d09b7.chunk.js": "/barbery/static/js/473.838d09b7.chunk.js",
+    "static/js/517.95d90628.chunk.js": "/barbery/static/js/517.95d90628.chunk.js",
+    "static/media/user-round.svg": "/barbery/static/media/user-round.13b5a31bebd2cc6016d6db2cac8e92d1.svg",
+    "static/media/logo2.jpeg": "/barbery/static/media/logo2.9ec59ea560d34b3a3ea2.jpeg",
+    "index.html": "/barbery/index.html",
+    "static/media/social-google.svg": "/barbery/static/media/social-google.9887eb8eb43729cb99f402cfa0de3c44.svg",
+    "static/media/earning.svg": "/barbery/static/media/earning.b019e86a7ee117bd6bb2e8cab90c0db5.svg",
+    "main.e1b9e8b4.css.map": "/barbery/static/css/main.e1b9e8b4.css.map",
+    "main.fb3c3496.js.map": "/barbery/static/js/main.fb3c3496.js.map",
+    "728.b64fa1fa.chunk.js.map": "/barbery/static/js/728.b64fa1fa.chunk.js.map",
+    "635.0895244a.chunk.js.map": "/barbery/static/js/635.0895244a.chunk.js.map",
+    "338.1df633ac.chunk.js.map": "/barbery/static/js/338.1df633ac.chunk.js.map",
+    "720.88999040.chunk.js.map": "/barbery/static/js/720.88999040.chunk.js.map",
+    "80.b8737330.chunk.js.map": "/barbery/static/js/80.b8737330.chunk.js.map",
+    "584.a11771a8.chunk.js.map": "/barbery/static/js/584.a11771a8.chunk.js.map",
+    "773.5ffb76e5.chunk.js.map": "/barbery/static/js/773.5ffb76e5.chunk.js.map",
+    "418.54b3599c.chunk.js.map": "/barbery/static/js/418.54b3599c.chunk.js.map",
+    "170.d7689304.chunk.js.map": "/barbery/static/js/170.d7689304.chunk.js.map",
+    "953.ed4188e9.chunk.js.map": "/barbery/static/js/953.ed4188e9.chunk.js.map",
+    "473.838d09b7.chunk.js.map": "/barbery/static/js/473.838d09b7.chunk.js.map",
+    "517.95d90628.chunk.js.map": "/barbery/static/js/517.95d90628.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1b9e8b4.css",
+    "static/js/main.fb3c3496.js"
+  ]
+}
